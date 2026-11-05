@@ -80,7 +80,7 @@ To return to an empty DB as a starting point, remove the `purple.dump` and rebui
 
 ## Using MailHog
 
-Emails sentout from dev enviroment is caught by [Mailpit](https://github.com/axllent/mailpit).
+Emails sentout from dev environment is caught by [Mailpit](https://github.com/axllent/mailpit).
 Access Mailpit from http://localhost:8025/
 
 ## Using pgAdmin
